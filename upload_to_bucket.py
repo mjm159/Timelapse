@@ -11,7 +11,7 @@ from botocore.exceptions import ClientError
 
 # Setting up config parser
 parser = ConfigParser()
-parser.read('uploader.ini')
+parser.read('/home/michael/Timelapse/uploader.ini')
 
 # Basic globals
 logging.basicConfig(filename='logs/upload_to_bucket.log', filemode='w', format='%(asctime)s - %(levelname) - %(message)s')
