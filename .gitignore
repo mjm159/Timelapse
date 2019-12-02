@@ -107,3 +107,6 @@ Notes/
 images/
 .DS_Store
 uploader.ini
+
+# Local dirs
+example-site/

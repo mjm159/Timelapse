@@ -50,4 +50,7 @@ A special thanks to Caroline Dunn who's tutorial let me to build this in the fir
 - [Boto3 docs](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html)
     - [Example S3 uploading](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files.html)
     - [AWS Cli docs](https://aws.amazon.com/cli/)
+- Crontab
+    - [Quick Reference](https://www.adminschoice.com/crontab-quick-reference)
+    
 
