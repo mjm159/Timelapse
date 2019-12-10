@@ -70,5 +70,5 @@ if __name__ == '__main__':
                                      filepath=filepath,
                                      object_name=filename,
                                      folder=FOLDER)
-    if successful_upload:
-        clean_up(filepath)
+    #if successful_upload:
+    #    clean_up(filepath)
