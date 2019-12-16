@@ -30,6 +30,11 @@ A Raspberry Pi powered webcam taking timelapse photos
     - All filepaths need to be absolute
     - crontab -e
         - /6 * * * * /home/michael/Timelapse/capture_photo.sh >/dev/null 2>&1
+- AWS
+    - s3
+    - cognito
+    - lambda
+    - API gateway
 
 ## Instructions
 
